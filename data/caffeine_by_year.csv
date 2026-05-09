@@ -1,0 +1,11 @@
+academic_year,day_type,n,mean,median,sd,IQR,min,max,pct_zero
+First Year,Regular,80,55.03,60,50.76,83.7,0,260,26.2
+First Year,Exam,80,63.43,60,74.18,95.62,0,476,30
+Second Year,Regular,62,68.17,62.4,97.57,56.48,0,695.73,21
+Second Year,Exam,62,81.56,68.7,127.73,63,0,901.11,19.4
+Third Year,Regular,76,57.06,40.07,57.92,97.82,0,300.14,31.6
+Third Year,Exam,76,71.35,60,74.28,100.45,0,370.14,30.3
+Master's / Final Year,Regular,41,49.45,35.29,57.15,75.72,0,201.8,34.1
+Master's / Final Year,Exam,41,70.98,45.8,88.11,100,0,390,34.1
+Previous Year Batch,Regular,39,61.35,70,57.45,94.99,0,265.94,30.8
+Previous Year Batch,Exam,39,103.16,100,106.17,160.62,0,456,30.8

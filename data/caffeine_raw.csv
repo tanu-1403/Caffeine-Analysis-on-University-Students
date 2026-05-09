@@ -1,0 +1,597 @@
+academic_year,student_id,day_type,caffeine_mg
+First Year,1,Regular,99.4
+First Year,2,Regular,37.86
+First Year,3,Regular,65.8
+First Year,4,Regular,5.8
+First Year,5,Regular,65.8
+First Year,6,Regular,60
+First Year,7,Regular,158
+First Year,8,Regular,60
+First Year,9,Regular,5.8
+First Year,10,Regular,97.86
+First Year,11,Regular,65.8
+First Year,12,Regular,0
+First Year,13,Regular,85.8
+First Year,14,Regular,0
+First Year,15,Regular,78
+First Year,16,Regular,20
+First Year,17,Regular,0
+First Year,18,Regular,0
+First Year,19,Regular,20
+First Year,20,Regular,0
+First Year,21,Regular,20
+First Year,22,Regular,140.14
+First Year,23,Regular,65.8
+First Year,24,Regular,20
+First Year,25,Regular,0
+First Year,26,Regular,80
+First Year,27,Regular,0
+First Year,28,Regular,0
+First Year,29,Regular,0
+First Year,30,Regular,40
+First Year,31,Regular,20.14
+First Year,32,Regular,60
+First Year,33,Regular,65.8
+First Year,34,Regular,97.86
+First Year,35,Regular,20
+First Year,36,Regular,65.8
+First Year,37,Regular,0
+First Year,38,Regular,0
+First Year,39,Regular,0
+First Year,40,Regular,0
+First Year,41,Regular,25.8
+First Year,42,Regular,40
+First Year,43,Regular,0
+First Year,44,Regular,33
+First Year,45,Regular,20
+First Year,46,Regular,0
+First Year,47,Regular,60
+First Year,48,Regular,60
+First Year,49,Regular,38
+First Year,50,Regular,0
+First Year,51,Regular,100
+First Year,52,Regular,80
+First Year,53,Regular,0
+First Year,54,Regular,154.14
+First Year,55,Regular,120
+First Year,56,Regular,40
+First Year,57,Regular,80
+First Year,58,Regular,140
+First Year,59,Regular,0
+First Year,60,Regular,120
+First Year,61,Regular,80
+First Year,62,Regular,0
+First Year,63,Regular,85.8
+First Year,64,Regular,65.8
+First Year,65,Regular,0
+First Year,66,Regular,80
+First Year,67,Regular,83
+First Year,68,Regular,63.8
+First Year,69,Regular,85.8
+First Year,70,Regular,94.87
+First Year,71,Regular,133.66
+First Year,72,Regular,80
+First Year,73,Regular,0
+First Year,74,Regular,111.6
+First Year,75,Regular,85.8
+First Year,76,Regular,140
+First Year,77,Regular,100
+First Year,78,Regular,80
+First Year,79,Regular,40
+First Year,80,Regular,260
+First Year,1,Exam,99.4
+First Year,2,Exam,37.86
+First Year,3,Exam,60
+First Year,4,Exam,0
+First Year,5,Exam,60
+First Year,6,Exam,60
+First Year,7,Exam,217.86
+First Year,8,Exam,120
+First Year,9,Exam,0
+First Year,10,Exam,97.86
+First Year,11,Exam,60
+First Year,12,Exam,0
+First Year,13,Exam,85.8
+First Year,14,Exam,0
+First Year,15,Exam,40
+First Year,16,Exam,20
+First Year,17,Exam,0
+First Year,18,Exam,0
+First Year,19,Exam,20
+First Year,20,Exam,0
+First Year,21,Exam,20
+First Year,22,Exam,140.14
+First Year,23,Exam,0
+First Year,24,Exam,20
+First Year,25,Exam,0
+First Year,26,Exam,80
+First Year,27,Exam,0
+First Year,28,Exam,0
+First Year,29,Exam,0
+First Year,30,Exam,40
+First Year,31,Exam,20.14
+First Year,32,Exam,60
+First Year,33,Exam,65.8
+First Year,34,Exam,97.86
+First Year,35,Exam,20
+First Year,36,Exam,65.8
+First Year,37,Exam,0
+First Year,38,Exam,0
+First Year,39,Exam,0
+First Year,40,Exam,0
+First Year,41,Exam,25.8
+First Year,42,Exam,40
+First Year,43,Exam,0
+First Year,44,Exam,33
+First Year,45,Exam,20
+First Year,46,Exam,0
+First Year,47,Exam,60
+First Year,48,Exam,60
+First Year,49,Exam,76
+First Year,50,Exam,0
+First Year,51,Exam,100
+First Year,52,Exam,80
+First Year,53,Exam,0
+First Year,54,Exam,476
+First Year,55,Exam,120
+First Year,56,Exam,40
+First Year,57,Exam,80
+First Year,58,Exam,140
+First Year,59,Exam,0
+First Year,60,Exam,180
+First Year,61,Exam,80
+First Year,62,Exam,0
+First Year,63,Exam,80
+First Year,64,Exam,65.8
+First Year,65,Exam,0
+First Year,66,Exam,80
+First Year,67,Exam,106
+First Year,68,Exam,101.8
+First Year,69,Exam,85.8
+First Year,70,Exam,94.87
+First Year,71,Exam,133.66
+First Year,72,Exam,160.14
+First Year,73,Exam,0
+First Year,74,Exam,111.6
+First Year,75,Exam,85.8
+First Year,76,Exam,210
+First Year,77,Exam,120
+First Year,78,Exam,100
+First Year,79,Exam,60
+First Year,80,Exam,260
+Second Year,1,Regular,25.8
+Second Year,2,Regular,365.88
+Second Year,3,Regular,695.73
+Second Year,4,Regular,48
+Second Year,5,Regular,0
+Second Year,6,Regular,80
+Second Year,7,Regular,0
+Second Year,8,Regular,63.8
+Second Year,9,Regular,85.8
+Second Year,10,Regular,40
+Second Year,11,Regular,25.8
+Second Year,12,Regular,25.8
+Second Year,13,Regular,83.8
+Second Year,14,Regular,80
+Second Year,15,Regular,58
+Second Year,16,Regular,0
+Second Year,17,Regular,80
+Second Year,18,Regular,74.14
+Second Year,19,Regular,25.8
+Second Year,20,Regular,25.94
+Second Year,21,Regular,100
+Second Year,22,Regular,0
+Second Year,23,Regular,0
+Second Year,24,Regular,117.86
+Second Year,25,Regular,80
+Second Year,26,Regular,80
+Second Year,27,Regular,0
+Second Year,28,Regular,88.8
+Second Year,29,Regular,25.8
+Second Year,30,Regular,0
+Second Year,31,Regular,0
+Second Year,32,Regular,0
+Second Year,33,Regular,97.86
+Second Year,34,Regular,0
+Second Year,35,Regular,120.14
+Second Year,36,Regular,40
+Second Year,37,Regular,80
+Second Year,38,Regular,80
+Second Year,39,Regular,65.8
+Second Year,40,Regular,0
+Second Year,41,Regular,85.8
+Second Year,42,Regular,65.8
+Second Year,43,Regular,108
+Second Year,44,Regular,88.8
+Second Year,45,Regular,61
+Second Year,46,Regular,71.6
+Second Year,47,Regular,25.8
+Second Year,48,Regular,80
+Second Year,49,Regular,83
+Second Year,50,Regular,0
+Second Year,51,Regular,80.14
+Second Year,52,Regular,61
+Second Year,53,Regular,71.6
+Second Year,54,Regular,0
+Second Year,55,Regular,5.8
+Second Year,56,Regular,25.8
+Second Year,57,Regular,60
+Second Year,58,Regular,40.14
+Second Year,59,Regular,100
+Second Year,60,Regular,43.8
+Second Year,61,Regular,90
+Second Year,62,Regular,117.86
+Second Year,1,Exam,25.8
+Second Year,2,Exam,409.08
+Second Year,3,Exam,901.11
+Second Year,4,Exam,5.8
+Second Year,5,Exam,5.8
+Second Year,6,Exam,80
+Second Year,7,Exam,0
+Second Year,8,Exam,101.8
+Second Year,9,Exam,85.8
+Second Year,10,Exam,40
+Second Year,11,Exam,25.8
+Second Year,12,Exam,25.8
+Second Year,13,Exam,121.8
+Second Year,14,Exam,100
+Second Year,15,Exam,96
+Second Year,16,Exam,0
+Second Year,17,Exam,80
+Second Year,18,Exam,74.14
+Second Year,19,Exam,25.8
+Second Year,20,Exam,25.94
+Second Year,21,Exam,260
+Second Year,22,Exam,0
+Second Year,23,Exam,0
+Second Year,24,Exam,197.86
+Second Year,25,Exam,100
+Second Year,26,Exam,80
+Second Year,27,Exam,0
+Second Year,28,Exam,88.8
+Second Year,29,Exam,45.8
+Second Year,30,Exam,0
+Second Year,31,Exam,0
+Second Year,32,Exam,0
+Second Year,33,Exam,97.86
+Second Year,34,Exam,0
+Second Year,35,Exam,120.14
+Second Year,36,Exam,40
+Second Year,37,Exam,80
+Second Year,38,Exam,80
+Second Year,39,Exam,65.8
+Second Year,40,Exam,0
+Second Year,41,Exam,85.8
+Second Year,42,Exam,65.8
+Second Year,43,Exam,108
+Second Year,44,Exam,88.8
+Second Year,45,Exam,61
+Second Year,46,Exam,71.6
+Second Year,47,Exam,25.8
+Second Year,48,Exam,80
+Second Year,49,Exam,83
+Second Year,50,Exam,0
+Second Year,51,Exam,80.14
+Second Year,52,Exam,61
+Second Year,53,Exam,71.6
+Second Year,54,Exam,0
+Second Year,55,Exam,11.6
+Second Year,56,Exam,25.8
+Second Year,57,Exam,60
+Second Year,58,Exam,40.14
+Second Year,59,Exam,100
+Second Year,60,Exam,81.8
+Second Year,61,Exam,90
+Second Year,62,Exam,277.86
+Third Year,1,Regular,108.88
+Third Year,2,Regular,20
+Third Year,3,Regular,0
+Third Year,4,Regular,40
+Third Year,5,Regular,20
+Third Year,6,Regular,45.8
+Third Year,7,Regular,3.5
+Third Year,8,Regular,0
+Third Year,9,Regular,0
+Third Year,10,Regular,0
+Third Year,11,Regular,70
+Third Year,12,Regular,63.8
+Third Year,13,Regular,300.14
+Third Year,14,Regular,136
+Third Year,15,Regular,20
+Third Year,16,Regular,0
+Third Year,17,Regular,136
+Third Year,18,Regular,85.94
+Third Year,19,Regular,0
+Third Year,20,Regular,0
+Third Year,21,Regular,200
+Third Year,22,Regular,100
+Third Year,23,Regular,0
+Third Year,24,Regular,148.94
+Third Year,25,Regular,63.8
+Third Year,26,Regular,0
+Third Year,27,Regular,0
+Third Year,28,Regular,118
+Third Year,29,Regular,40
+Third Year,30,Regular,0
+Third Year,31,Regular,100
+Third Year,32,Regular,40.14
+Third Year,33,Regular,40
+Third Year,34,Regular,0
+Third Year,35,Regular,120
+Third Year,36,Regular,0
+Third Year,37,Regular,120.14
+Third Year,38,Regular,90
+Third Year,39,Regular,0
+Third Year,40,Regular,0
+Third Year,41,Regular,0
+Third Year,42,Regular,0
+Third Year,43,Regular,40
+Third Year,44,Regular,80
+Third Year,45,Regular,0
+Third Year,46,Regular,40
+Third Year,47,Regular,85.8
+Third Year,48,Regular,100
+Third Year,49,Regular,0
+Third Year,50,Regular,65.8
+Third Year,51,Regular,0
+Third Year,52,Regular,0
+Third Year,53,Regular,0
+Third Year,54,Regular,120
+Third Year,55,Regular,0
+Third Year,56,Regular,60
+Third Year,57,Regular,0
+Third Year,58,Regular,80
+Third Year,59,Regular,97.86
+Third Year,60,Regular,40
+Third Year,61,Regular,60
+Third Year,62,Regular,80
+Third Year,63,Regular,80
+Third Year,64,Regular,100
+Third Year,65,Regular,97.8
+Third Year,66,Regular,83.14
+Third Year,67,Regular,189.3
+Third Year,68,Regular,99.26
+Third Year,69,Regular,77.54
+Third Year,70,Regular,85.8
+Third Year,71,Regular,25.8
+Third Year,72,Regular,20
+Third Year,73,Regular,40
+Third Year,74,Regular,100
+Third Year,75,Regular,40
+Third Year,76,Regular,117.74
+Third Year,1,Exam,97
+Third Year,2,Exam,85.8
+Third Year,3,Exam,0
+Third Year,4,Exam,45.8
+Third Year,5,Exam,25.8
+Third Year,6,Exam,40
+Third Year,7,Exam,63.5
+Third Year,8,Exam,0
+Third Year,9,Exam,60
+Third Year,10,Exam,0
+Third Year,11,Exam,230
+Third Year,12,Exam,121.8
+Third Year,13,Exam,370.14
+Third Year,14,Exam,97.86
+Third Year,15,Exam,20
+Third Year,16,Exam,0
+Third Year,17,Exam,136
+Third Year,18,Exam,85.94
+Third Year,19,Exam,0
+Third Year,20,Exam,0
+Third Year,21,Exam,300
+Third Year,22,Exam,100
+Third Year,23,Exam,0
+Third Year,24,Exam,5.8
+Third Year,25,Exam,101.8
+Third Year,26,Exam,0
+Third Year,27,Exam,0
+Third Year,28,Exam,118
+Third Year,29,Exam,40
+Third Year,30,Exam,0
+Third Year,31,Exam,100
+Third Year,32,Exam,40
+Third Year,33,Exam,40
+Third Year,34,Exam,0
+Third Year,35,Exam,125.8
+Third Year,36,Exam,0
+Third Year,37,Exam,125.94
+Third Year,38,Exam,228.8
+Third Year,39,Exam,0
+Third Year,40,Exam,0
+Third Year,41,Exam,0
+Third Year,42,Exam,0
+Third Year,43,Exam,40
+Third Year,44,Exam,160
+Third Year,45,Exam,0
+Third Year,46,Exam,60
+Third Year,47,Exam,85.8
+Third Year,48,Exam,180
+Third Year,49,Exam,0
+Third Year,50,Exam,125.8
+Third Year,51,Exam,0
+Third Year,52,Exam,0
+Third Year,53,Exam,0
+Third Year,54,Exam,120
+Third Year,55,Exam,0
+Third Year,56,Exam,140
+Third Year,57,Exam,0
+Third Year,58,Exam,80
+Third Year,59,Exam,135.72
+Third Year,60,Exam,40
+Third Year,61,Exam,60
+Third Year,62,Exam,80
+Third Year,63,Exam,80
+Third Year,64,Exam,100
+Third Year,65,Exam,97.86
+Third Year,66,Exam,83.14
+Third Year,67,Exam,189.3
+Third Year,68,Exam,99.26
+Third Year,69,Exam,131.6
+Third Year,70,Exam,85.8
+Third Year,71,Exam,45.8
+Third Year,72,Exam,40
+Third Year,73,Exam,40
+Third Year,74,Exam,100
+Third Year,75,Exam,40
+Third Year,76,Exam,176.54
+Master's / Final Year,1,Regular,60
+Master's / Final Year,2,Regular,0
+Master's / Final Year,3,Regular,0
+Master's / Final Year,4,Regular,0
+Master's / Final Year,5,Regular,100
+Master's / Final Year,6,Regular,0.14
+Master's / Final Year,7,Regular,40
+Master's / Final Year,8,Regular,0
+Master's / Final Year,9,Regular,75.72
+Master's / Final Year,10,Regular,0
+Master's / Final Year,11,Regular,45.8
+Master's / Final Year,12,Regular,0
+Master's / Final Year,13,Regular,0
+Master's / Final Year,14,Regular,0
+Master's / Final Year,15,Regular,29
+Master's / Final Year,16,Regular,40
+Master's / Final Year,17,Regular,180
+Master's / Final Year,18,Regular,20
+Master's / Final Year,19,Regular,80
+Master's / Final Year,20,Regular,60
+Master's / Final Year,21,Regular,60
+Master's / Final Year,22,Regular,160
+Master's / Final Year,23,Regular,100
+Master's / Final Year,24,Regular,80
+Master's / Final Year,25,Regular,0
+Master's / Final Year,26,Regular,0
+Master's / Final Year,27,Regular,110
+Master's / Final Year,28,Regular,40
+Master's / Final Year,29,Regular,190.2
+Master's / Final Year,30,Regular,68
+Master's / Final Year,31,Regular,5.8
+Master's / Final Year,32,Regular,30
+Master's / Final Year,33,Regular,65.8
+Master's / Final Year,34,Regular,0
+Master's / Final Year,35,Regular,35.29
+Master's / Final Year,36,Regular,30
+Master's / Final Year,37,Regular,0
+Master's / Final Year,38,Regular,0
+Master's / Final Year,39,Regular,120
+Master's / Final Year,40,Regular,0
+Master's / Final Year,41,Regular,201.8
+Master's / Final Year,1,Exam,180
+Master's / Final Year,2,Exam,0
+Master's / Final Year,3,Exam,0
+Master's / Final Year,4,Exam,0
+Master's / Final Year,5,Exam,100
+Master's / Final Year,6,Exam,0.14
+Master's / Final Year,7,Exam,60
+Master's / Final Year,8,Exam,0
+Master's / Final Year,9,Exam,113.58
+Master's / Final Year,10,Exam,0
+Master's / Final Year,11,Exam,45.8
+Master's / Final Year,12,Exam,0
+Master's / Final Year,13,Exam,0
+Master's / Final Year,14,Exam,0
+Master's / Final Year,15,Exam,29
+Master's / Final Year,16,Exam,40
+Master's / Final Year,17,Exam,180
+Master's / Final Year,18,Exam,20
+Master's / Final Year,19,Exam,80
+Master's / Final Year,20,Exam,60
+Master's / Final Year,21,Exam,60
+Master's / Final Year,22,Exam,160
+Master's / Final Year,23,Exam,100
+Master's / Final Year,24,Exam,80
+Master's / Final Year,25,Exam,0
+Master's / Final Year,26,Exam,180
+Master's / Final Year,27,Exam,390
+Master's / Final Year,28,Exam,45.8
+Master's / Final Year,29,Exam,323
+Master's / Final Year,30,Exam,68
+Master's / Final Year,31,Exam,125.8
+Master's / Final Year,32,Exam,0
+Master's / Final Year,33,Exam,65.8
+Master's / Final Year,34,Exam,0
+Master's / Final Year,35,Exam,70.58
+Master's / Final Year,36,Exam,45
+Master's / Final Year,37,Exam,0
+Master's / Final Year,38,Exam,0
+Master's / Final Year,39,Exam,120
+Master's / Final Year,40,Exam,0
+Master's / Final Year,41,Exam,167.8
+Previous Year Batch,1,Regular,95.25
+Previous Year Batch,2,Regular,265.94
+Previous Year Batch,3,Regular,0
+Previous Year Batch,4,Regular,20
+Previous Year Batch,5,Regular,85.8
+Previous Year Batch,6,Regular,20
+Previous Year Batch,7,Regular,0
+Previous Year Batch,8,Regular,125.94
+Previous Year Batch,9,Regular,0
+Previous Year Batch,10,Regular,37
+Previous Year Batch,11,Regular,0
+Previous Year Batch,12,Regular,0
+Previous Year Batch,13,Regular,91.8
+Previous Year Batch,14,Regular,88.5
+Previous Year Batch,15,Regular,0
+Previous Year Batch,16,Regular,37
+Previous Year Batch,17,Regular,57
+Previous Year Batch,18,Regular,0
+Previous Year Batch,19,Regular,40
+Previous Year Batch,20,Regular,0
+Previous Year Batch,21,Regular,0
+Previous Year Batch,22,Regular,94.73
+Previous Year Batch,23,Regular,81.765
+Previous Year Batch,24,Regular,58
+Previous Year Batch,25,Regular,97.4
+Previous Year Batch,26,Regular,0
+Previous Year Batch,27,Regular,99.8
+Previous Year Batch,28,Regular,148.8
+Previous Year Batch,29,Regular,80.14
+Previous Year Batch,30,Regular,0
+Previous Year Batch,31,Regular,70
+Previous Year Batch,32,Regular,0
+Previous Year Batch,33,Regular,80
+Previous Year Batch,34,Regular,114
+Previous Year Batch,35,Regular,97.86
+Previous Year Batch,36,Regular,140.14
+Previous Year Batch,37,Regular,80
+Previous Year Batch,38,Regular,105.8
+Previous Year Batch,39,Regular,80
+Previous Year Batch,1,Exam,72
+Previous Year Batch,2,Exam,301.6
+Previous Year Batch,3,Exam,0
+Previous Year Batch,4,Exam,20
+Previous Year Batch,5,Exam,85.8
+Previous Year Batch,6,Exam,20
+Previous Year Batch,7,Exam,0
+Previous Year Batch,8,Exam,185.8
+Previous Year Batch,9,Exam,0
+Previous Year Batch,10,Exam,37
+Previous Year Batch,11,Exam,0
+Previous Year Batch,12,Exam,0
+Previous Year Batch,13,Exam,49
+Previous Year Batch,14,Exam,117
+Previous Year Batch,15,Exam,0
+Previous Year Batch,16,Exam,107
+Previous Year Batch,17,Exam,114
+Previous Year Batch,18,Exam,0
+Previous Year Batch,19,Exam,60
+Previous Year Batch,20,Exam,0
+Previous Year Batch,21,Exam,0
+Previous Year Batch,22,Exam,183.66
+Previous Year Batch,23,Exam,163.39
+Previous Year Batch,24,Exam,117.86
+Previous Year Batch,25,Exam,167.4
+Previous Year Batch,26,Exam,0
+Previous Year Batch,27,Exam,219.8
+Previous Year Batch,28,Exam,257.8
+Previous Year Batch,29,Exam,140.14
+Previous Year Batch,30,Exam,0
+Previous Year Batch,31,Exam,244
+Previous Year Batch,32,Exam,0
+Previous Year Batch,33,Exam,100
+Previous Year Batch,34,Exam,456
+Previous Year Batch,35,Exam,157.86
+Previous Year Batch,36,Exam,140.14
+Previous Year Batch,37,Exam,140
+Previous Year Batch,38,Exam,265.8
+Previous Year Batch,39,Exam,100

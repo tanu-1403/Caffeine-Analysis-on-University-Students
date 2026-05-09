@@ -1,0 +1,26 @@
+# R-specific
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Outputs (generated — don't commit large PNGs)
+outputs/*.png
+outputs/*.pdf
+
+# Data files (raw/sensitive)
+data/*.xls
+data/*.xlsx
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Shiny cache
+rsconnect/
+
+# Temp files
+*.tmp
+*~
