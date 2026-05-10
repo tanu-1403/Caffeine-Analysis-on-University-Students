@@ -69,8 +69,7 @@ shiny::runApp("shiny_app/")            # 🖥️ Launches the calculator
 ```
 
 > 💡 The pipeline auto-installs any missing packages. You literally just need R.
-###For demo
-app link(https://tanu-1403.shinyapps.io/caffeine_project/)
+###For demo app link(https://tanu-1403.shinyapps.io/caffeine_project/)
 ---
 
 ## 🏗️ WHAT'S IN THE REPO
@@ -392,17 +391,23 @@ across 13 departments and 5 academic cohorts.
 <div align="center">
 
 ```
-      )  (
-     (   ) )          Remember:
-      ) ( (
-    _______)_         Behind every great
-   .-'---------|      exam score is a
-  ( C|/\/\/\/\/|      suspicious amount
-   '-./\/\/\/\/|      of caffeine ☕
-     '_________'
-      '-------'
+              (  (
+             ) ) 
+          ........
+          |      |]
+          \      /
+           `----'
 
-  Faculty of Science · MSU Baroda · 2024–25
+        ☕  Remember ☕
+
+   Behind every great exam score
+   is a suspicious amount of
+            caffeine ☕
+
+────────────────────────────────
+   Faculty of Science · MSU Baroda
+               2024–25
+────────────────────────────────
 ```
 
 *Made with ☕ and an unreasonable amount of R.*
